@@ -1,1 +1,3 @@
-<!-- GitAds-Verify: 8QVJY9FNJNX27URA36TXPTAY6A55PCWW -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/rcs-common@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/rcs-common@github)
+
